@@ -16,6 +16,5 @@ hook-redux添加
 ```
 
 ```
-
-react-redux 实现
+react-redux 简易实现
 ```
